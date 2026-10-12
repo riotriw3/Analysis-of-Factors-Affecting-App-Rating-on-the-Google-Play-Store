@@ -1,4 +1,4 @@
-# 📊 Analisis Faktor yang Memengaruhi Rating Aplikasi Google Play Store
+# Analisis Faktor yang Memengaruhi Rating Aplikasi Google Play Store
 
 Analisis ini bertujuan untuk mengidentifikasi faktor-faktor yang berkaitan dengan kemungkinan sebuah aplikasi memperoleh **rating ≥ 4** di Google Play Store. Metode utama yang digunakan adalah **regresi logistik biner**, dengan proses pengolahan data, pemilihan model, serta evaluasi performa menggunakan **R**.
 
