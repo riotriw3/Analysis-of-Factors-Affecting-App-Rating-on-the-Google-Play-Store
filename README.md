@@ -172,19 +172,6 @@ Secara keseluruhan, proyek ini memberikan pengalaman dalam proses analisis data 
 1. Agresti, A. (2013). *Categorical Data Analysis* (3rd ed.). Wiley.
 2. Lavanya. *Google Play Store Apps Dataset*. Kaggle: [https://www.kaggle.com/datasets/lava18/google-play-store-apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
-## 👥 Tim Peneliti
-
-Penelitian ini dikerjakan oleh mahasiswa Program Studi Matematika, Fakultas Sains dan Teknologi, UIN Syarif Hidayatullah Jakarta.
-
-- Rio Tri Wibowo
-- Aisya Shalifa
-- Arjuananta Malik
-- Rachmat Nadhif Priatno
-- Kevin Septiyan Candra
-
-Berdasarkan laporan, kontribusi tim mencakup perumusan masalah, penyusunan laporan, pembuatan presentasi, dan presentasi hasil.
-
----
 
 <p align="center">
   Dibuat sebagai dokumentasi proyek analisis data dan pemodelan statistik menggunakan regresi logistik.
