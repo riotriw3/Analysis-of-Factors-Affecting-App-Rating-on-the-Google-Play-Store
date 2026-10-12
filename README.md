@@ -4,21 +4,6 @@ Analisis ini bertujuan untuk mengidentifikasi faktor-faktor yang berkaitan denga
 
 > Proyek ini merupakan analisis data untuk memahami hubungan antara ulasan pengguna, jumlah instalasi, genre, dan kategori aplikasi terhadap rating aplikasi.
 
-## 📌 Daftar Isi
-
-- [Latar Belakang](#-latar-belakang)
-- [Tujuan Analisis](#-tujuan-analisis)
-- [Dataset](#-dataset)
-- [Variabel Penelitian](#-variabel-penelitian)
-- [Tahapan Analisis](#-tahapan-analisis)
-- [Pemodelan](#-pemodelan)
-- [Evaluasi Model](#-evaluasi-model)
-- [Hasil dan Temuan Utama](#-hasil-dan-temuan-utama)
-- [Kesimpulan](#-kesimpulan)
-- [Keterbatasan dan Catatan](#-keterbatasan-dan-catatan)
-- [Tools dan Referensi](#-tools-dan-referensi)
-- [Tim Peneliti](#-tim-peneliti)
-
 ## 🎯 Latar Belakang
 
 Rating merupakan salah satu informasi yang dapat dipertimbangkan pengguna ketika memilih aplikasi di Google Play Store. Rating juga dapat menjadi masukan bagi pengembang untuk memahami respons pengguna terhadap aplikasi yang dibuat.
